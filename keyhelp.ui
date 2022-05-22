@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>KeyHelp</class>
+ <widget class="QDialog" name="KeyHelp">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>425</width>
+    <height>451</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QLabel" name="title">
+   <property name="geometry">
+    <rect>
+     <x>100</x>
+     <y>30</y>
+     <width>211</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>隶书</family>
+     <pointsize>28</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>按键说明</string>
+   </property>
+   <property name="alignment">
+    <set>Qt::AlignCenter</set>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>50</x>
+     <y>50</y>
+     <width>331</width>
+     <height>321</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>1.操控按键：玩家可通过操控键盘上的上、下、左、右或者W、S、A、D按键来实现上移、下移、左移、右移操作。
+2.注册/登录：新玩家点击注册进行新账号的创建，已有账号的玩家可点击登录进入游戏。
+3.退出登录：玩家点击此按钮退出账号登录。
+4.排行榜：玩家可通过点击此按钮查看游戏排行榜。
+5.退一步：玩家点击退一步将返回上一步，通过不断点击可一直返回，但最多只能回到最初开始的界面。
+6.新游戏：玩家点击按钮将开始新一轮的游戏。
+</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

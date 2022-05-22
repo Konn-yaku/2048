@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>resources/2.jpg</file>
+        <file>resources/4.jpg</file>
+        <file>resources/8.jpg</file>
+        <file>resources/16.jpg</file>
+        <file>resources/32.jpg</file>
+        <file>resources/64.jpg</file>
+        <file>resources/128.jpg</file>
+        <file>resources/256.jpg</file>
+        <file>resources/512.jpg</file>
+        <file>resources/1024.jpg</file>
+        <file>resources/2048.jpg</file>
+        <file>resources/back.jpg</file>
+        <file>resources/background.jpg</file>
+        <file>resources/bestscore.jpg</file>
+        <file>resources/board.jpg</file>
+        <file>resources/cancel.jpg</file>
+        <file>resources/checkpassword.jpg</file>
+        <file>resources/gamehelp.jpg</file>
+        <file>resources/keyhelp.jpg</file>
+        <file>resources/login.jpg</file>
+        <file>resources/logo.jpg</file>
+        <file>resources/logout.jpg</file>
+        <file>resources/newgame.jpg</file>
+        <file>resources/no_login.jpg</file>
+        <file>resources/password.jpg</file>
+        <file>resources/rank.jpg</file>
+        <file>resources/register.jpg</file>
+        <file>resources/score.jpg</file>
+        <file>resources/step.jpg</file>
+        <file>resources/time.jpg</file>
+        <file>resources/username.jpg</file>
+    </qresource>
+</RCC>
